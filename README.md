@@ -1,6 +1,5 @@
-<img style="width: 100%; transform: rotate(180deg);" src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=footer"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
 
-<h4 style="font-size: 2rem; text-align: center;">Oi, eu sou Leonardo Sardinha!</h4>
 <br>
 
 <div>
