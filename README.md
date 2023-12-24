@@ -44,6 +44,7 @@
 
 ## Meus contatos
 <a href="https://www.linkedin.com/in/leonardo-sardinha/" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
+<br>
 <a href="mailto:leonardo_sardinha@outlook.com" target="_blank" rel="noopener noreferrer">
   <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF"/>
 </a>
