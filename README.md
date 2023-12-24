@@ -4,7 +4,7 @@
 <br>
 
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+um+estudante+de+programação+de+20+anos;fascinado+por+Tecnologia."/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+um+estudante+de+programação+fascinado+por+Tecnologia."/>
 </div>
 
 <br>
