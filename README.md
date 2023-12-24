@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=header"/>
 
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Oi!;Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Leonardo+Sardinha,;um+estudante+de+programação;fascinado+por+Tecnologia."/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Leonardo+Sardinha!;Sou+um+estudante+de+programação;fascinado+por+Tecnologia.;Seja+bem-vindo+ao+meu+perfil!"/>
 </div>
 
 <br>
