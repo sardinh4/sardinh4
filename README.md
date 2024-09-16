@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=header"/>
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Leonardo+Sardinha!;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+SPTech;fascinado+por+Tecnologia.;Seja+bem-vindo+ao+meu+perfil!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Leonardo+Sardinha!;Sou+estudante+na+SPTech;de+Análise+e+Desenvolvimento+de+Sistemas+;fascinado+por+Tecnologia.;Seja+bem-vindo+ao+meu+perfil!"/>
 </div>
 
 <br>
